@@ -5,7 +5,7 @@ A modern, production-ready photo printing web application built with Next.js 14,
 
 ## 🚀 Live Demo
 
-**[View Live Application →](https://your-app-url.vercel.app)**
+**[View Live Application →](https://inekas-sharjah-3nbm.vercel.app/)**
 
 ---
 
@@ -59,8 +59,8 @@ A modern, production-ready photo printing web application built with Next.js 14,
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/photo-print-app.git
-cd photo-print-app
+git clone https://github.com/mithlajmt/inekas_sharjah.git
+cd inekas_sharjah
 ```
 
 2. **Install dependencies**
@@ -281,54 +281,9 @@ No environment variables required for this demo application.
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] Backend integration with database
-- [ ] Real payment gateway (Stripe/PayPal)
-- [ ] User authentication and accounts
-- [ ] Order history and tracking
-- [ ] Image editing tools (crop, rotate, filters)
-- [ ] Bulk discount pricing
-- [ ] Email notifications
-- [ ] Admin dashboard
-
----
-
-## 📊 Performance Metrics
-
-- **Lighthouse Score:** 95+ (Performance, Accessibility, Best Practices, SEO)
-- **First Contentful Paint:** < 1.5s
-- **Time to Interactive:** < 2.5s
-- **Total Bundle Size:** < 200KB (gzipped)
-- **Mobile Performance:** Optimized for 3G networks
-
----
-
-## 🤝 Contributing
-
-This is an interview assignment project. However, suggestions and improvements are welcome!
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -m 'Add improvement'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is created as an interview assignment and is available for educational purposes.
-
----
-
-## 👨‍💻 Developer
-
-**Your Name**  
-📧 Email: your.email@example.com  
-🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
@@ -337,7 +292,7 @@ This project is created as an interview assignment and is available for educatio
 - **Next.js Team** for the amazing framework
 - **Vercel** for seamless deployment
 - **Tailwind CSS** for the utility-first CSS framework
-- **[Company Name]** for the interview opportunity
+- **Inekas** for the interview opportunity
 
 ---
 
@@ -345,20 +300,11 @@ This project is created as an interview assignment and is available for educatio
 
 For questions about this project:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: mithlajmatta@gmail.com
 - Connect on LinkedIn
 
 ---
 
-## 📝 Interview Assignment Details
-
-**Company:** [Company Name]  
-**Position:** MERN Stack Developer  
-**Assignment:** Photo Printing Web Application  
-**Completion Time:** ~2 hours  
-**Date Submitted:** [Date]
-
----
 
 ## ⭐ Key Features That Stand Out
 
@@ -390,11 +336,10 @@ For questions about this project:
    - Clean code structure
    - Component reusability
    - Semantic HTML
-   - SEO optimized
 
 ---
 
-**Built with ❤️ for [Company Name] - Interview Assignment 2025**
+**Built with ❤️ for Inekas- Interview Assignment 2025**
 
 ---
 
